@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Speech.Synthesis;
 using System.Threading;
 using System.Threading.Tasks;
-namespace ResolveBot
+namespace Griefer
 {
     class Program
     {
