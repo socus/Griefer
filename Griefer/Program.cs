@@ -34,7 +34,6 @@ namespace Griefer
             Console.WriteLine($"   /// ///          /// /// ");
             Console.WriteLine($";) /// /// Griefer /// /// ;)");
             Console.WriteLine($"  /// ///         /// /// ");
-            /// /// /// Running The Bot /// /// 
             _client = new DiscordSocketClient();
             _commands = new CommandService();
             _config = new CommandServiceConfig();
